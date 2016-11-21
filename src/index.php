@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP Application running on Docker</h1>
-                <h2>Devcon 2016 - Cerner!!!</h2>
+                <h2>Devcon 2016 - Cerner Sindhu!!!</h2>
                 <p>Your PHP application is now running on a Docker container- BUILD 1.</p>
                 <p>The container is running PHP version - Its Awesome!!!<?php echo phpversion(); ?>.</p>
                 <?php
