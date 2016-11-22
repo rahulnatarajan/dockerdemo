@@ -7,7 +7,7 @@
         <title>Simple PHP App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <style>body {margin-top: 40px; background-color: #D5E929;}</style>
+        <style>body {margin-top: 40px; background-color: #27CE85;}</style>
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
@@ -16,8 +16,8 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>PHP Application running on Docker</h1>
-                <h2>Cerner Devcon 2016 - Sindhu Balasundaram!!!</h2>
-                <p>Your PHP application is now running on a Docker container- BUILD 16.</p>
+                <h2>Cerner Devcon 2016 - Sindhu Balasundaram - PA!!!</h2>
+                <p>Your PHP application is now running on a Docker container- BUILD 17.</p>
                 <p>The container is running PHP version - Its Awesome!!!<?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
