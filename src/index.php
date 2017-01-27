@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>PHP Application running on Docker</h1>
                 <h2>YL Demo Devops Using Ansible - A Pipeline For Efficiency!!!</h2>
-                <p>Your PHP application is now running on a Docker container- BUILD 31 - Friday 09:13 AM.</p>
+                <p>Your PHP application is now running on a Docker container- BUILD 32 - Friday 09:17 AM.</p>
                 <p>The container is running PHP version - Its Awesome!!!<?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
