@@ -7,7 +7,7 @@
         <title>Simple PHP App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <style>body {margin-top: 40px; background-color: #1EBFB0;}</style>
+        <style>body {margin-top: 40px; background-color: #D0D321;}</style>
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>PHP Application running on Docker</h1>
                 <h2>YL Demo Devops Using Ansible - A Pipeline For Efficiency!!!</h2>
-                <p>Your PHP application is now running on a Docker container- BUILD 32 - Saturday 12:13 PM.</p>
+                <p>Your PHP application is now running on a Docker container- BUILD 33 - Saturday 12:27 PM.</p>
                 <p>The container is running PHP version - Its Awesome!!!<?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
